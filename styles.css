@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+}
+header{
+    background-color: #120323;
+    padding: 2%;
+}
+
+h1{
+    color: #97bf04;
+    text-align: center;
+}
+
+ img{
+    width:  900px;
+    height: 600px;
+    box-shadow: 10px 10px 30px 10px #000000;
+    border-radius: 2%;
+
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+button{
+    display: flex;
+    background-color:#d9043d;
+    color:#120323;
+    border-radius: 2%;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
